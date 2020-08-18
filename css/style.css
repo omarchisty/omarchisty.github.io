@@ -28,6 +28,9 @@
 .bg-redtype{
     background-color: #FB857F;
 }
+.bg-redtype:hover{
+    color: black!important;
+}
 
 .redtype-color{
     color: #FB857F;
@@ -39,3 +42,44 @@
     height: 150px;
     border-radius: 50%;
 }
+
+.project-container{
+    background-color: #2BB3DD;
+}
+
+.portfolio-container{
+    background-color:#F8F9FA;
+}
+ .gallery-container{
+     background-color: #292826;
+ }
+
+ .form-container{
+     background-color: #474D5D;
+ }
+
+ .inner-form{
+     background-color: #585F73;
+ }
+
+ .footer{
+     background-color: #2BB3DD;
+ }
+
+ .cir-cle{
+     width: 60px;
+     height: 60px;
+     border-radius: 50%;
+     display: inline-block;
+     background-color: white;
+     font-size: 40px;
+     text-align: center;
+     color: #2BB3DD;
+ }
+
+ .cir-cle:hover{
+    
+    background-color:#474D5D;
+   
+}
+
